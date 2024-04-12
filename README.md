@@ -75,10 +75,12 @@ endmodule
 ```
 
 **RTL Schematic**
-![image](https://github.com/DHIRAVIYASUNDARAM/HALF_ADDER_SUBTRACTOR/assets/165143880/9db8ee58-0d45-48a9-a69f-bde2974aa886)
+
+![Screenshot 2024-04-12 185550](https://github.com/DHIRAVIYASUNDARAM/HALF_ADDER_SUBTRACTOR/assets/165143880/b91426a5-515e-4e7d-96bb-51822fd8537d)
 
 **Output/TIMING Waveform**
-![image](https://github.com/DHIRAVIYASUNDARAM/HALF_ADDER_SUBTRACTOR/assets/165143880/e654b0e6-ec7f-4dff-9803-a1f9b1099676)
+
+![Screenshot 2024-04-12 185944](https://github.com/DHIRAVIYASUNDARAM/HALF_ADDER_SUBTRACTOR/assets/165143880/b9d32230-2a35-4375-85d9-93fa2240d160)
 
 **Result:**
 Thus the half adder and half subtractor circuits are designed and the truth tables are verified successfully using quartus software.
