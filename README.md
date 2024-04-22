@@ -70,7 +70,7 @@ xor G1(sum,a,b);
 and G2(carry,a,b);
 not G4(abar,a);
 xor G3(D,a,b);
-and G5(B0,abar,b);
+and G5(Bo,abar,b);
 endmodule 	
 ```
 
